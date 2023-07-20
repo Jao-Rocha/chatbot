@@ -25,6 +25,7 @@ https://github.com/Jao-Rocha/chatbot/assets/102491630/c321c2bc-030b-441f-ab95-fd
 # Tecnologias utilizadas
 
 - Javascript
+- Typescript
 - Nextjs 
 - Tailwindcss
 - Shadcn/ui
